@@ -1,0 +1,24 @@
+/* h2 {
+    font-style: italic;
+}
+
+.user-add-form {
+    display: flex;
+    flex-direction: column;
+}
+
+.user-add-form input {
+    max-width: 50%;
+} */
+
+.user-add-form { 
+    background-color: #ffffff;
+    margin-bottom: 5vh;
+}
+
+.titleForm{
+    height: 10%;
+    font-size: large;
+    color: white;
+    margin-top: 2vh;
+}
