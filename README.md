@@ -1,4 +1,4 @@
-# Advanced JavaScript - Project 1
+# Advanced JavaScript With React - Project 1
 
 ## AdminPanel
 
